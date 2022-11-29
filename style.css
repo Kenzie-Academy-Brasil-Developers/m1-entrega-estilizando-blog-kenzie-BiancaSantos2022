@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: black;
+    background: url(img/imagem-fundo.jpg);
+    height:100vh;
+    text-align-last: center;
+    
+}
+  
+
+.title{
+    color:rgb(26, 34, 59);
+}
+article{
+    background: rgb(130,129,134);
+    background: linear-gradient(341deg, rgba(130,129,134,0.9806297387969628) 6%, rgba(148,148,148,0.5986072668868504) 41%);
+    border: 5px solid rgb(26, 34, 59);
+    padding: 10px;
+    margin: 30px auto;
+    width: 70%;
+    -moz-border-radius: 10px 69px 10px 69px;
+    -webkit-border-radius: 10px 69px 10px 69px;
+}
+input{
+    background-color: rgba(216, 216, 216, 0.884);
+    border-color: rgb(26, 34, 59);
+    border-radius: 5px;
+    height: 30px;
+}
+button{
+    background-color: rgb(26, 34, 59);
+    border-color: rgb(26, 34, 59);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    height: 30px;
+
+}
+a{
+    color: rgb(26, 34, 59);
+}
+div{
+    background: rgb(130,129,134);
+    background: linear-gradient(341deg, rgba(130,129,134,0.9806297387969628) 6%, rgba(148,148,148,0.5986072668868504) 41%);
+    border: 5px solid rgb(26, 34, 59);
+    padding: 10px;
+    margin: 30px auto;
+    width: 30%;
+    -moz-border-radius: 10px 69px 10px 69px;
+    -webkit-border-radius: 10px 69px 10px 69px;
+}
+
